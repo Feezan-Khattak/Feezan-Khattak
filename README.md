@@ -6,7 +6,7 @@
 <a href="https://twitter.com/FeezanKhattak">
   <img align="left" alt="Feezan Khattak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a https://www.linkedin.com/in/feezan-khattak-5aa02b17a/">
+<a href="https://www.linkedin.com/in/feezan-khattak-5aa02b17a/">
   <img align="left" alt="Feezan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
