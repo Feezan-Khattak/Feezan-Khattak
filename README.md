@@ -10,7 +10,8 @@
   <img align="left" alt="Feezan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
+<br/>
+<br/>
 <br />
 
 hi, i'm **Feezan Khattak**, a passionate self-taught backend web engineer and a freelance software engineer from Pakistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
