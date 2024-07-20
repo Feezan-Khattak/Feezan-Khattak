@@ -4,7 +4,7 @@
   <img align="left" alt="Feezan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/FeezanKhattak">
-  <img align="left" alt="Feezan Khattak | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000" />
+  <img align="left" alt="Feezan Khattak | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
 </a>
 <a href="https://www.linkedin.com/in/feezan-khattak-5aa02b17a/">
   <img align="left" alt="Feezan's Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />
