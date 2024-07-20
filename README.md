@@ -7,7 +7,7 @@
   <img align="left" alt="Feezan Khattak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/feezan-khattak-5aa02b17a/">
-  <img align="left" alt="Feezan's Linkedin" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img align="left" alt="Feezan's Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />
 </a>
 
 <br/>
